@@ -1,0 +1,4 @@
+Solution writeUP
+
+For my solution I used the files from recitation for my bst,
+no issues from what I am aware of but lmk

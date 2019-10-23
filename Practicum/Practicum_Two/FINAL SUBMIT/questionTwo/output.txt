@@ -1,0 +1,14 @@
+rgnt1-32-10-dhcp:questionTwo angusfiedler$ ./a.out 
+----------------
+TEST 1
+----------------
+1.2 - 5 - 10.5 - 15 - 20.7
+----------------
+TEST 2
+----------------
+5
+----------------
+TEST 3
+----------------
+8.2 - 30 - 34
+rgnt1-32-10-dhcp:questionTwo angusfiedler$ 

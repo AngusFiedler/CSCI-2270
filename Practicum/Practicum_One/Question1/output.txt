@@ -1,0 +1,8 @@
+with list of 7,4,6,2
+sum = 12
+-------------
+with empty list
+sum = 0
+-------------
+with two elements, 400, 3
+sum = 400

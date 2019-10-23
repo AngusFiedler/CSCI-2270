@@ -1,0 +1,7 @@
+Solution Write up
+
+for this solution elected to not use a class as the files I had saved for heaps were not working correctly
+I used code I had from previos homeworks on heaps to try to sort the array using the heapify algo
+
+
+I do not believe the code has any issues but lmk

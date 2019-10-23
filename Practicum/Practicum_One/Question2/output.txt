@@ -1,0 +1,19 @@
+rgnt1-33-255-dhcp:Question2 angusfiedler$ ./a.out 
+with numbers 1,2,3,4,5
+Even Numbers
+2
+4
+odd numbers
+1
+3
+5
+
+with just the number 3
+odd numbers
+3
+rgnt1-33-255-dhcp:Question2 angusfiedler$ 
+
+
+
+
+https://medium.com/flutter-io/google-maps-and-flutter-cfb330f9a245

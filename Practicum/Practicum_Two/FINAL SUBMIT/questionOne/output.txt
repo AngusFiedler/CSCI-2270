@@ -1,0 +1,23 @@
+rgnt1-32-10-dhcp:questionOne angusfiedler$ ./a.out 
+Creating tree
+New tree created with 5
+2 has been added
+1 has been added
+4 has been added
+7 has been added
+10 has been added
+8 has been added
+6 has been added
+with range of 1 to 2: 3
+--------------------------
+TEST 2
+--------------------------
+with range of 4 to 10: 40
+--------------------------
+TEST 3
+--------------------------
+New tree created with 20
+3 has been added
+100 has been added
+with range 4 to 100: 120
+rgnt1-32-10-dhcp:questionOne angusfiedler$ 
